@@ -12,7 +12,7 @@
 Russian, English - B1.
 
 ### EXPERIENCE
-- 2016-2021 <a name="Parag"href="dds.by">Dinnersaur Design Studio</a>;
+- 2016-2021 [Dinnersaur Design Studio](https://dds.by);
 - 2016-2021 freelance.
 
 ### EDUCATION
@@ -25,8 +25,9 @@ plugins). I know perfectly well the css framework bootstrap 3-4x
 versions. Constantly expanding my knowledge in js and WordPress.
 
 ### You can contact with me:
-<a name="Parag"href="mailto:alexanderkulnyow@gmail.com">alexanderkulnyow@gmail.com</a>
-<a name="Parag" href="https:\\t.me/alexanderkulnyow">t.me/alexanderkulnyow</a>
+- [alexanderkulnyow@gmail.com](mailto:https://alexanderkulnyow@gmail.com);
+- [t.me/alexanderkulnyow](https://t.me/alexanderkulnyow);
+
 
 <!--
 **alexanderkulnyow/alexanderkulnyow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
