@@ -28,8 +28,9 @@ versions. Constantly expanding my knowledge in js and WordPress.
 - [alexanderkulnyow@gmail.com](mailto:alexanderkulnyow@gmail.com);
 - [t.me/alexanderkulnyow](https://t.me/alexanderkulnyow);
 
-### Some projects:
-- [Dinnersaur Design Studio](https://dds.by);
+#### Portfolio: [Dinnersaur Design Studio](https://dds.by).
+
+### Some side projects:
 - [tancy-club.by](https://tancy-club.by);
 - [otip.vstu.by](https://otip.vstu.by);
 - [unilyuba.ru](https://unilyuba.ru);
