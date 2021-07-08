@@ -21,7 +21,7 @@ Research engineer
 ### RESUME
 I’ve been developing websites since 2016. I know CMS OpenCart,
 Wordpress, 1C Bitrix. I give preference to WordPress (I write themes,
-plugins). I know perfectly well the css framework bootstrap 3-4x
+plugins). I know perfectly well the css framework bootstrap 3-5
 versions. Constantly expanding my knowledge in js and WordPress.
 
 ### You can contact with me:
