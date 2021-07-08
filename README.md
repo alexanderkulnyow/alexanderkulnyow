@@ -2,7 +2,7 @@
 ### Hi there 👋
 ### I'm Alexander Kulnyow and I'm WordPress developer.
 ### My skills:
-- Full cycle WP side development 
+- Full cycle WP development 
 (Design, Front-End, Back-End);
 - HTML5, CSS3, JavaScript, PHP, MySQL;
 - Figma, Adobe XD, Adobe Photoshop, Adobe Indesign;
@@ -12,9 +12,8 @@
 Russian, English - B1.
 
 ### EXPERIENCE
-2016-2021 Dinnersaur Design Studio - front-end developer (https://
-dds.by);
-2016-2021 freelance.
+- 2016-2021 <a name="Parag"href="dds.by">Dinnersaur Design Studio</a> -;
+- 2016-2021 freelance.
 
 ### EDUCATION
 Research engineer
