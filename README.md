@@ -12,7 +12,7 @@
 Russian, English - B1.
 
 ### EXPERIENCE
-- 2016-2021 <a name="Parag"href="dds.by">Dinnersaur Design Studio</a> -;
+- 2016-2021 <a name="Parag"href="dds.by">Dinnersaur Design Studio</a>;
 - 2016-2021 freelance.
 
 ### EDUCATION
