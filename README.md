@@ -25,7 +25,7 @@ plugins). I know perfectly well the css framework bootstrap 3-4x
 versions. Constantly expanding my knowledge in js and WordPress.
 
 ### You can contact with me:
-- [alexanderkulnyow@gmail.com](mailto:https://alexanderkulnyow@gmail.com);
+- [alexanderkulnyow@gmail.com](mailto:alexanderkulnyow@gmail.com);
 - [t.me/alexanderkulnyow](https://t.me/alexanderkulnyow);
 
 
