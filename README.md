@@ -28,12 +28,6 @@ versions. Constantly expanding my knowledge in js and WordPress.
 - [alexanderkulnyow@gmail.com](mailto:alexanderkulnyow@gmail.com);
 - [t.me/alexanderkulnyow](https://t.me/alexanderkulnyow);
 
-#### Portfolio: [Dinnersaur Design Studio](https://dds.by).
-
-### Some side projects:
-- [tancy-club.by](https://tancy-club.by);
-- [otip.vstu.by](https://otip.vstu.by);
-- [unilyuba.ru](https://unilyuba.ru);
 <!--
 **alexanderkulnyow/alexanderkulnyow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
