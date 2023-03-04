@@ -14,7 +14,7 @@ Russian, English - B1.
 ### EXPERIENCE
 - 2016-2021 [Dinnersaur Design Studio](https://dds.by);
 - 2016-2021 freelance.
-- 2021-... [𝗣𝗜𝗘𝗦𝗢𝗙𝗧, 𝗟𝗟𝗖](https://piesoft.us) as WordPress developer | php (Symfony) developer;
+- 2021-NOW() [𝗣𝗜𝗘𝗦𝗢𝗙𝗧, 𝗟𝗟𝗖](https://piesoft.us) as WordPress developer | php (Symfony) developer;
 
 ### EDUCATION
 Research engineer
