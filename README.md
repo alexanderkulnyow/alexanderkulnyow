@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hello there ⭐🧔⚔️
 ### I'm Alexander Kulnyow and I'm WordPress developer.
 ### My skills:
 - Full cycle WP development 
@@ -14,12 +14,13 @@ Russian, English - B1.
 ### EXPERIENCE
 - 2016-2021 [Dinnersaur Design Studio](https://dds.by);
 - 2016-2021 freelance.
+- 2021-... [𝗣𝗜𝗘𝗦𝗢𝗙𝗧, 𝗟𝗟𝗖](https://piesoft.us) as WordPress developer | php (Symfony) developer;
 
 ### EDUCATION
 Research engineer
 
 ### RESUME
-I’ve been developing websites since 2016. I know CMS OpenCart,
+I’ve been developing websites since 2016. I have expirience with CMS OpenCart,
 Wordpress, 1C Bitrix. I give preference to WordPress (I write themes,
 plugins). I know perfectly well the css framework bootstrap 3-5
 versions. Constantly expanding my knowledge in js and WordPress.
