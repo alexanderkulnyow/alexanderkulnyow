@@ -42,11 +42,6 @@ Russian, English - B1.
   
   PHP 8.1, PostgreSQL, MariaDB, MySQL, ClickHouse, RabbitMQ, Symfony 4-5, Docker, RESTful API, WordPress, html, css, git, webpack
 
-### RESUME
-I’ve been developing websites since 2016. I have expirience with CMS OpenCart,
-Wordpress, 1C Bitrix. I give preference to WordPress (I write themes,
-plugins). I know perfectly well the css framework bootstrap 3-5
-versions. Constantly expanding my knowledge in js and WordPress.
 
 ### You can contact with me:
 - [alexanderkulnyow@gmail.com](mailto:alexanderkulnyow@gmail.com);
