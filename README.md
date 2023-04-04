@@ -5,9 +5,9 @@
 ### EDUCATION
 #### Vitebsk State Technological University
 #### Department of Information Technology and Robotics
-– 2010-2015 – Engineer;
-– 2015-2016 – Master of Engineering;
-– 2016-2019 – Research Engineer.
+- 2010-2015 – Engineer;
+- 2015-2016 – Master of Engineering;
+- 2016-2019 – Research Engineer.
 
 ### My skills:
 - Full cycle WP development (Design, Front-End, Back-End);
