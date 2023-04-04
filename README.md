@@ -10,8 +10,7 @@
 – 2016-2019 – Research Engineer.
 
 ### My skills:
-- Full cycle WP development 
-(Design, Front-End, Back-End);
+- Full cycle WP development (Design, Front-End, Back-End);
 - HTML5, CSS3, JavaScript, PHP, MySQL;
 - Figma, Adobe XD, Adobe Photoshop, Adobe Indesign;
 - Project management.
@@ -21,7 +20,7 @@ Russian, English - B1.
 
 ### EXPERIENCE
 - 2016-2021 [Dinnersaur Design Studio](https://dds.by);
-- 
+
   Position: Full Stack Developer
   
   Full cycle website development for restaurant business, integration with payment system;
