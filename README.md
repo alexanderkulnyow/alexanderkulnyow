@@ -38,10 +38,15 @@ Russian, English - B1.
   Position: Software Engineer
   
   – Analytic dashboards development;
+  
   – REST API integration;
+  
   – REST API integration;
+  
   – Medical CRM systems development;
+  
   – WordPress custom themes, Gutenberg blocks and plugins development.
+  
   
   PHP 8.1, PostgreSQL, MariaDB, MySQL, ClickHouse, RabbitMQ, Symfony, Docker, RESTful API, WordPress, wp-cli, js, React, HTML, CSS, Git, Webpack
 
