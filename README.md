@@ -19,27 +19,36 @@
 Russian, English - B1.
 
 ### EXPERIENCE
+- 2016-2021 Vitebsk State Technological University
+  Position: Researcher | Part-time Teacher | Software Engineer
+  
 - 2016-2021 [Dinnersaur Design Studio](https://dds.by);
 
-  Position: Full Stack Developer
+  Position:Full Stack Developer, Project Manager
   
-  Full cycle website development for restaurant business, integration with payment system;
+  - Full cycle website development for restaurant business, integration with payment system;
   
-  WordPress custom themes and plugins development.
+  - WordPress custom themes and plugins development;
+
+  - REST API integration
   
-  PHP 7.4, MySQL, WordPress, html, css, git, webpack
+  PHP 7.4, MySQL, WordPress, JS, HTML, CSS, Git, Gulp, Webpack
   
 - 2021-NOW() [𝗣𝗜𝗘𝗦𝗢𝗙𝗧, 𝗟𝗟𝗖](https://piesoft.us) as WordPress developer | php (Symfony) developer;
 
   Position: Software Engineer
   
   – Analytic dashboards development;
+
+  - REST API integration;
+ 
+  - REST API integration;
   
   – Medical CRM systems development;
   
   – WordPress custom themes, Gutenberg blocks and plugins development.
   
-  PHP 8.1, PostgreSQL, MariaDB, MySQL, ClickHouse, RabbitMQ, Symfony 4-5, Docker, RESTful API, WordPress, html, css, git, webpack
+  PHP 8.1, PostgreSQL, MariaDB, MySQL, ClickHouse, RabbitMQ, Symfony, Docker, RESTful API, WordPress, wp-cli, js, React, HTML, CSS, Git, Webpack
 
 
 ### You can contact with me:
