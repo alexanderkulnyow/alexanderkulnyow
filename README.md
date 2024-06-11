@@ -28,7 +28,9 @@ Russian, English - B1.
   Position:Full Stack Developer, Project Manager
   
   – Full cycle website development for restaurant business, integration with payment system;
+  
   – WordPress custom themes and plugins development;
+  
   – REST API integration
   
   PHP 7.4, MySQL, WordPress, JS, HTML, CSS, Git, Gulp, Webpack
@@ -50,13 +52,16 @@ Russian, English - B1.
   
   PHP 8.1, PostgreSQL, MariaDB, MySQL, ClickHouse, RabbitMQ, Symfony, Docker, RESTful API, WordPress, wp-cli, js, React, HTML, CSS, Git, Webpack
 
-- 2021-NOW() [VIACode](https://viacode.com) as WordPress consultant;
+- 2023 [VIACode](https://viacode.com) as WordPress consultant;
 
   Position: WordPress developer | WordPress consultant
   
   – Сonsulting the development team;
-  – Optimizing site speed, security and accessibility
+  
+  – Optimizing site speed, security and accessibility;
+  
   – Implementation of CI/CD;
+  
   
   PHP 8.1, MariaDB, MySQL, Docker, WordPress, wp-cli, React, JS, HTML, CSS, Git, Webpack, CI/CD
 
