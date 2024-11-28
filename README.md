@@ -35,7 +35,21 @@ Russian, English - B1.
   
   PHP 7.4, MySQL, WordPress, JS, HTML, CSS, Git, Gulp, Webpack
   
-- 2021-NOW() [𝗣𝗜𝗘𝗦𝗢𝗙𝗧, 𝗟𝗟𝗖](https://piesoft.us) as WordPress developer | php (Symfony) developer;
+
+- 2023 [VIACode](https://viacode.com) as WordPress consultant;
+
+  Position: WordPress developer | WordPress consultant
+  
+  – Сonsulting the development team;
+  
+  – Optimizing site speed, security and accessibility;
+  
+  – Implementation of CI/CD;
+  
+  
+  PHP 8.1, MariaDB, MySQL, Docker, WordPress, wp-cli, React, JS, HTML, CSS, Git, Webpack, CI/CD
+
+  - 2021-2024 [𝗣𝗜𝗘𝗦𝗢𝗙𝗧, 𝗟𝗟𝗖](https://piesoft.us) as WordPress developer | php (Symfony) developer;
 
   Position: Software Engineer
   
@@ -51,20 +65,13 @@ Russian, English - B1.
   
   
   PHP 8.1, PostgreSQL, MariaDB, MySQL, ClickHouse, RabbitMQ, Symfony, Docker, RESTful API, WordPress, wp-cli, js, React, HTML, CSS, Git, Webpack
+  
+- 2024-NOW() [ZAOCHNIK] as WordPress developer | php (Symfony) developer;
 
-- 2023 [VIACode](https://viacode.com) as WordPress consultant;
-
-  Position: WordPress developer | WordPress consultant
+  Position: Team Lead
+    
   
-  – Сonsulting the development team;
-  
-  – Optimizing site speed, security and accessibility;
-  
-  – Implementation of CI/CD;
-  
-  
-  PHP 8.1, MariaDB, MySQL, Docker, WordPress, wp-cli, React, JS, HTML, CSS, Git, Webpack, CI/CD
-
+  PHP 8.3, PostgreSQL, MariaDB, MySQL, ClickHouse, RabbitMQ, Symfony, Laravel, Docker, RESTful API, WordPress, wp-cli, js, React, HTML, CSS, Git, Webpack
 
 ### You can contact with me:
 - [alexanderkulnyow@gmail.com](mailto:alexanderkulnyow@gmail.com);
