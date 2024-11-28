@@ -49,7 +49,7 @@ Russian, English - B1.
   
   PHP 8.1, MariaDB, MySQL, Docker, WordPress, wp-cli, React, JS, HTML, CSS, Git, Webpack, CI/CD
 
-  - 2021-2024 [𝗣𝗜𝗘𝗦𝗢𝗙𝗧, 𝗟𝗟𝗖](https://piesoft.us) as WordPress developer | php (Symfony) developer;
+- 2021-2024 [𝗣𝗜𝗘𝗦𝗢𝗙𝗧, 𝗟𝗟𝗖](https://piesoft.us) as WordPress developer | php (Symfony) developer;
 
   Position: Software Engineer
   
@@ -66,7 +66,7 @@ Russian, English - B1.
   
   PHP 8.1, PostgreSQL, MariaDB, MySQL, ClickHouse, RabbitMQ, Symfony, Docker, RESTful API, WordPress, wp-cli, js, React, HTML, CSS, Git, Webpack
   
-- 2024-NOW() [ZAOCHNIK] as WordPress developer | php (Symfony) developer;
+- 2024- NOW(), [Zaochnik](https://www.linkedin.com/company/zaochnik) as WordPress developer | php (Symfony) developer;
 
   Position: Team Lead
     
