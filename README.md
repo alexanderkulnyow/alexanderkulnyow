@@ -69,9 +69,16 @@ Russian, English - B1.
 - 2024- NOW(), [Zaochnik](https://www.linkedin.com/company/zaochnik) as WordPress developer | php (Symfony) developer;
 
   Position: Team Lead
-    
   
-  PHP 8.3, PostgreSQL, MariaDB, MySQL, ClickHouse, RabbitMQ, Symfony, Laravel, Docker, RESTful API, WordPress, wp-cli, js, React, HTML, CSS, Git, Webpack
+  – Team management;
+  
+  – Team training;
+  
+  – REST API integration;
+  
+  – CI/CD implementation;
+      
+  PHP 8.4, PostgreSQL, MariaDB, MySQL, ClickHouse, RabbitMQ, Symfony, Laravel, Docker, RESTful API, WordPress, wp-cli, js, React, HTML, CSS, Git, Webpack
 
 ### You can contact with me:
 - [alexanderkulnyow@gmail.com](mailto:alexanderkulnyow@gmail.com);
