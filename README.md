@@ -36,7 +36,7 @@ Russian, English - B1.
       
   PHP 8.4, PostgreSQL, MariaDB, MySQL, ClickHouse, RabbitMQ, Symfony, Laravel, Docker, RESTful API, WordPress, wp-cli, js, React, HTML, CSS, Git, Webpack
 
-  - 2021-2024 [𝗣𝗜𝗘𝗦𝗢𝗙𝗧, 𝗟𝗟𝗖](https://piesoft.us) as WordPress developer | php (Symfony) developer;
+- 2021-2024 [𝗣𝗜𝗘𝗦𝗢𝗙𝗧, 𝗟𝗟𝗖](https://piesoft.us) as WordPress developer | php (Symfony) developer;
 
   Position: Software Engineer
   
