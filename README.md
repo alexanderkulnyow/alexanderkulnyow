@@ -22,7 +22,7 @@ Russian, English - B1.
 
 - 2024- NOW(), [Zaochnik](https://www.linkedin.com/company/zaochnik) as WordPress developer | php (Symfony) developer;
 
-  Position: Team Lead
+  Position: Team Leader
   
   – Team management;
   
